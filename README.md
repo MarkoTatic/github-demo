@@ -8,3 +8,8 @@ A simple demo repository to show the basic Git workflow.
 
 ## Deployment
 This is a sample demo for deployment.
+
+
+### Copyright
+
+2021 Git.Training.
