@@ -1,0 +1,13 @@
+# TEAM
+
+	<name> -- <role> -- <twitter>
+	Makro .NET Junior @twt
+
+# THANKS
+
+	<name>
+
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3 
