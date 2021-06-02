@@ -12,4 +12,4 @@ This is a sample demo for deployment.
 
 ### Copyright
 
-2021 Git.Training.
+2021 Git.Training. All rights reserved.
